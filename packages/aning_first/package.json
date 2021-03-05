@@ -1,15 +1,14 @@
 {
-  "name": "two",
+  "name": "aning_first",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "first": "^1.0.0"
-  }
+  "gitHead": "103099b77c2327cfa2c2880cc514d92dabe6f307"
 }
