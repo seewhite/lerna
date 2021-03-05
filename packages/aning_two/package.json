@@ -1,0 +1,16 @@
+{
+  "name": "aning_two",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "103099b77c2327cfa2c2880cc514d92dabe6f307",
+  "dependencies": {
+    "aning_first": "^1.0.0"
+  }
+}
